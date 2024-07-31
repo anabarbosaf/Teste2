@@ -1,1 +1,2 @@
 conteudo inicial
+conteudo diferente para conflito
